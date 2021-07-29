@@ -1,0 +1,2 @@
+origin:		https://jcdubiel@github.com/jcdubiel/postfixadmin.git
+upstream:	https://github.com/postfixadmin/postfixadmin.git
